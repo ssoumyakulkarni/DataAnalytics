@@ -1,0 +1,22 @@
+{
+    "Digits": [
+        "456", 
+        "123", 
+        "8473"
+    ], 
+    "Alphabets": [
+        "Soumya kulkarni", 
+        "Munbai", 
+        "Chaina", 
+        "Bangalore"
+    ], 
+    "Special_Charects": [
+        "!@#", 
+        "()*&*(&%^"
+    ], 
+    "Alphanumeric": [
+        "Bangalore123", 
+        "Chaina345", 
+        "Munbai123"
+    ]
+}
